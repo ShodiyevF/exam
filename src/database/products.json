@@ -1,0 +1,50 @@
+[
+    {
+        "product_id": 1,
+        "product_name": "redmi s6",
+        "sub_category_id": 1,
+        "product_model": "redmi",
+        "product_color": "gray",
+        "product_price": "220"
+    },
+    {
+        "product_id": 2,
+        "product_name": "redmi s5",
+        "sub_category_id": 1,
+        "product_model": "redmi",
+        "product_color": "gray",
+        "product_price": "220"
+    },
+    {
+        "product_id": 3,
+        "product_name": "redmi band3",
+        "sub_category_id": 2,
+        "product_model": "redmi",
+        "product_color": "gray",
+        "product_price": "220"
+    },
+    {
+        "product_id": 4,
+        "product_name": "redmi band5",
+        "sub_category_id": 2,
+        "product_model": "redmi",
+        "product_color": "gray",
+        "product_price": "220"
+    },
+    {
+        "product_id": 5,
+        "product_name": "artel 6",
+        "sub_category_id": 3,
+        "product_model": "redmi",
+        "product_color": "gray",
+        "product_price": "220"
+    },
+    {
+        "product_id": 6,
+        "product_name": "samsung smart tv",
+        "sub_category_id": 3,
+        "product_model": "samsung",
+        "product_color": "gray",
+        "product_price": "220"
+    }
+]

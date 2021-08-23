@@ -1,0 +1,26 @@
+[
+    {
+        "user_id": 1,
+        "username": "ASDASD",
+        "password": "DDDD",
+        "email": "DDDD",
+        "birth": "DDDD",
+        "gender": "DDDD"
+    },
+    {
+        "user_id": 2,
+        "username": "ASDASD",
+        "password": "DDDD",
+        "email": "DDDD",
+        "birth": "DDDD",
+        "gender": "DDDD"
+    },
+    {
+        "user_id": 3,
+        "username": "AaSDASD",
+        "password": "aaaaaaA$aaaaaaaa1aa",
+        "email": "DA@1DDD",
+        "birth": "11",
+        "gender": "1"
+    }
+]
