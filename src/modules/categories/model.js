@@ -38,8 +38,18 @@ const getCategories = () => {
     return global
 }
 
+const postCategories = ({ category_name } ) => {
+
+    const categories = readJson('categories')
+    const categoryId = categories.length ? categories[categories.length - 1].category_id + 1 : 1
+    const newUser = { category_id: categoryId, category_name }
+    categories.push(newUser)
+    writeJson('users', categories)
+}
+
 getCategories()
 
 module.exports = {
-    getCategories
+    getCategories,
+    postCategories
 }

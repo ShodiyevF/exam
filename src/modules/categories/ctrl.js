@@ -10,6 +10,20 @@ const CATEGORIES = (req, res) => {
     }
 }
 
+const POSTCATEGORIES = (req, res) => {
+    try {
+        postCategories(req.body)
+        res.status(200).json({
+            status: 200,
+            message: 'post buldi'
+        })
+
+    } catch (error) {
+
+    }
+}
+
 module.exports = {
-    CATEGORIES
+    CATEGORIES,
+    POSTCATEGORIES
 }
