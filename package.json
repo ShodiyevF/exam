@@ -4,6 +4,7 @@
   "description": "",
   "main": "exam.js",
   "scripts": {
+    "start": "node src/server",
     "dev": "nodemon src/server"
   },
   "keywords": [],
